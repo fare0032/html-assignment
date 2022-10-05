@@ -1,0 +1,36 @@
+/*My Delicious css*/
+
+body {
+    background-color:antiquewhite;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+header, footer {
+    background-color:aquamarine
+}
+
+.site-title {
+    color:black;
+}
+
+#my-image {
+    box-shadow: 0 0 2px 1px aquamarine;
+}
+
+ul {   
+    list-style-type: square;
+}
+
+li:nth-child(1) {
+    background: lightcoral;
+  }
+
+li:nth-child(2) {
+    background: lightcoral;
+  }
+
+  a:link {
+    text-decoration: none;
+}
+
